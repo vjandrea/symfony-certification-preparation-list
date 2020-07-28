@@ -25,7 +25,6 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Traits](/topics/php-and-web-security.md#traits)
     - [PHP extensions](/topics/php-and-web-security.md#php-extensions)
     - [SPL](/topics/php-and-web-security.md#spl)
-    - [Web security (XSS, CSRF, etc.)](/topics/php-and-web-security.md#web-security-xss-csrf-etc)
 - [HTTP](/topics/http.md)
     - [Client / Server interaction](/topics/http.md#client--server-interaction)
     - [Status codes](/topics/http.md#status-codes)
