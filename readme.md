@@ -35,6 +35,8 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Caching](/topics/http.md#caching)
     - [Content negotiation](/topics/http.md#content-negotiation)
     - [Language detection](/topics/http.md#language-detection)
+    - [Symfony HttpClient component](https://symfony.com/doc/5.0/http_client.html)
+    
 - [Symfony Architecture](/topics/symfony-architecture.md)
     - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex)
     - [License](/topics/symfony-architecture.md#license)
