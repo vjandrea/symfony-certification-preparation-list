@@ -25,7 +25,7 @@ title: HTTP - Symfony Certification Preparation List
 
 ## Cookies
 - [HTTP cookie - wikipedia.org](https://en.wikipedia.org/wiki/HTTP_cookie)
-- [Setting Cookies - symfony.com](https://symfony.com/doc/5.0/components/http_foundation.html)
+- [Setting Cookies - symfony.com](https://symfony.com/doc/5.0/components/http_foundation.html#setting-cookies)
 
 ## Caching
 See [HTTP Caching](./http-caching.md)
