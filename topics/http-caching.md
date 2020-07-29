@@ -26,7 +26,7 @@ title: HTTP Caching - Symfony Certification Preparation List
 - [Private browser caches - HTTP caching - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching#Private_browser_caches)
 
 ## Server side caching
-- [Caching with a Gateway Cache - symfony.com](https://symfony.com/doc/5.0/http_cache.html#caching-with-a-gateway-cache)
+- [Caching with a Gateway Cache - symfony.com](https://symfony.com/doc/5.0/http_cache.html#caching-with-a-gateway-cache) ✅
 - [Gateway Caches - Caching Tutorial - mnot.net](https://www.mnot.net/cache_docs/#GATEWAY)
 
 ## Edge Side Includes
