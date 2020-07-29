@@ -19,10 +19,10 @@ title: HTTP Caching - Symfony Certification Preparation List
 
 ## Validation (ETag, Last-Modified)
 - [HTTP Cache Validation - symfony.com](https://symfony.com/doc/5.0/http_cache/validation.html) ✅
-- [Validation - Things Caches Do - tomayko.com](https://tomayko.com/blog/2008/things-caches-do#validation)
+- [Validation - Things Caches Do - tomayko.com](https://tomayko.com/blog/2008/things-caches-do#validation) 
 
 ## Client side caching
-- [Browser Caches - Caching Tutorial - mnot.net](https://www.mnot.net/cache_docs/#BROWSER)
+- [Browser Caches - Caching Tutorial - mnot.net](https://www.mnot.net/cache_docs/#BROWSER) ✅
 - [Private browser caches - HTTP caching - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching#Private_browser_caches)
 
 ## Server side caching
