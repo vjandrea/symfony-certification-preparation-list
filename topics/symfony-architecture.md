@@ -5,9 +5,9 @@ title: Symfony Architecture - Symfony Certification Preparation List
 
 # Symfony Architecture
 
-## Symfony Flex
-- [Symfony 5.0 Documentation - symfony.com](https://symfony.com/doc/5.0/index.html)
-- [Using Symfony Flex to Manage Symfony Applications - symfony.com](https://symfony.com/doc/5.0/setup/flex.html)
+## Symfony Flex 
+- [Symfony 5.0 Documentation - symfony.com](https://symfony.com/doc/5.0/index.html) ✅
+- [Using Symfony Flex to Manage Symfony Applications - symfony.com](https://symfony.com/doc/5.0/setup/flex.html) ✅
 
 ## License
 - [Symfony License - symfony.com](https://symfony.com/doc/5.0/contributing/code/license.html)
