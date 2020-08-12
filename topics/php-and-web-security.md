@@ -40,10 +40,10 @@ title: PHP and Web Security - Symfony Certification Preparation List
 ## PHP extensions
 - [Extensions (sorted by Membership) - php.net](http://php.net/manual/en/extensions.membership.php) ✅
   - CSPRNG : The » cryptographically secure pseudo-random number generator
-  - [SPL, the standart PHP library](https://www.php.net/manual/en/book.spl.php)
 
 ## SPL
-- [Standard PHP Library - php.net](http://php.net/book.spl)
+- [Standard PHP Library - php.net](http://php.net/book.spl) ✅
+  - Structures des données, Itérateurs, Interfaces, Exceptions, Fonctions SPL, fonction, Classes et interfaces diverses
 
 ## Web security (XSS, CSRF, etc.)
 - [Security - php.net](http://php.net/manual/en/security.php)
