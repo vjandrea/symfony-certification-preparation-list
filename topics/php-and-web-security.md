@@ -38,7 +38,9 @@ title: PHP and Web Security - Symfony Certification Preparation List
   - The magic constant __TRAIT__ will giev you the name of the trait
 
 ## PHP extensions
-- [Extensions (sorted by Membership) - php.net](http://php.net/manual/en/extensions.membership.php)
+- [Extensions (sorted by Membership) - php.net](http://php.net/manual/en/extensions.membership.php) ✅
+  - CSPRNG : The » cryptographically secure pseudo-random number generator
+  - [SPL, the standart PHP library](https://www.php.net/manual/en/book.spl.php)
 
 ## SPL
 - [Standard PHP Library - php.net](http://php.net/book.spl)
