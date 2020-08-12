@@ -30,6 +30,7 @@ title: PHP and Web Security - Symfony Certification Preparation List
 - [Exception (class) - php.net](http://php.net/manual/en/class.exception.php)
 - [Exceptions - php.net](http://php.net/manual/en/language.exceptions.php)
   - Pipe (|) available as of PHP 7.1
+- [SPL exceptions](https://www.php.net/manual/en/spl.exceptions.php) 
 
 ## Traits
 - [Traits - php.net](http://php.net/manual/en/language.oop5.traits.php)
