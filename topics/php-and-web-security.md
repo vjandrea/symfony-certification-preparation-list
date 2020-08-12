@@ -29,6 +29,7 @@ title: PHP and Web Security - Symfony Certification Preparation List
 ## Exception and error handling
 - [Exception (class) - php.net](http://php.net/manual/en/class.exception.php)
 - [Exceptions - php.net](http://php.net/manual/en/language.exceptions.php)
+  - Pipe (|) available as of PHP 7.1
 
 ## Traits
 - [Traits - php.net](http://php.net/manual/en/language.oop5.traits.php)
