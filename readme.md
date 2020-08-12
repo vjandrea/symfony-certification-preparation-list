@@ -14,7 +14,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
 
 ## Table of Contents
 
-- [PHP](/topics/php-and-web-security.md)
+- [PHP](/topics/php-and-web-security.md) ✅
     - [PHP API up to PHP 7.2 version](/topics/php-and-web-security.md#php-api-up-to-php-72-version) ✅
     - [Object Oriented Programming](/topics/php-and-web-security.md#object-oriented-programming) ✅
     - [Namespaces](/topics/php-and-web-security.md#namespaces) ✅
@@ -38,7 +38,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Symfony HttpClient component](https://symfony.com/doc/5.0/http_client.html)
     
 - [Symfony Architecture](/topics/symfony-architecture.md)
-    - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex)
+    - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex) ✅
     - [License](/topics/symfony-architecture.md#license)
     - [Components](/topics/symfony-architecture.md#components)
     - [Bridges](/topics/symfony-architecture.md#bridges)
