@@ -23,8 +23,8 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Abstract classes](/topics/php-and-web-security.md#abstract-classes) ✅
     - [Exception and error handling](/topics/php-and-web-security.md#exception-and-error-handling) ✅
     - [Traits](/topics/php-and-web-security.md#traits) ✅
-    - [PHP extensions](/topics/php-and-web-security.md#php-extensions)
-    - [SPL](/topics/php-and-web-security.md#spl)
+    - [PHP extensions](/topics/php-and-web-security.md#php-extensions) ✅
+    - [SPL](/topics/php-and-web-security.md#spl) 
 - [HTTP](/topics/http.md)
     - [Client / Server interaction](/topics/http.md#client--server-interaction)
     - [Status codes](/topics/http.md#status-codes)
