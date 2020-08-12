@@ -19,9 +19,9 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Object Oriented Programming](/topics/php-and-web-security.md#object-oriented-programming) ✅
     - [Namespaces](/topics/php-and-web-security.md#namespaces) ✅
     - [Interfaces](/topics/php-and-web-security.md#interfaces) ✅
-    - [Anonymous functions and closures](/topics/php-and-web-security.md#anonymous-functions-and-closures)
-    - [Abstract classes](/topics/php-and-web-security.md#abstract-classes)
-    - [Exception and error handling](/topics/php-and-web-security.md#exception-and-error-handling)
+    - [Anonymous functions and closures](/topics/php-and-web-security.md#anonymous-functions-and-closures) ✅
+    - [Abstract classes](/topics/php-and-web-security.md#abstract-classes) ✅
+    - [Exception and error handling](/topics/php-and-web-security.md#exception-and-error-handling) 
     - [Traits](/topics/php-and-web-security.md#traits)
     - [PHP extensions](/topics/php-and-web-security.md#php-extensions)
     - [SPL](/topics/php-and-web-security.md#spl)
