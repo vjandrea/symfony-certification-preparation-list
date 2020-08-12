@@ -22,7 +22,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Anonymous functions and closures](/topics/php-and-web-security.md#anonymous-functions-and-closures) ✅
     - [Abstract classes](/topics/php-and-web-security.md#abstract-classes) ✅
     - [Exception and error handling](/topics/php-and-web-security.md#exception-and-error-handling) ✅
-    - [Traits](/topics/php-and-web-security.md#traits)
+    - [Traits](/topics/php-and-web-security.md#traits) ✅
     - [PHP extensions](/topics/php-and-web-security.md#php-extensions)
     - [SPL](/topics/php-and-web-security.md#spl)
 - [HTTP](/topics/http.md)
