@@ -21,6 +21,14 @@ title: Symfony Architecture - Symfony Certification Preparation List
 
 ## Configuration
 - [The Config Component - symfony.com](https://symfony.com/doc/5.0/components/config.html)
+  - Caching based on Resources ✅
+  - Defining and Processing Configuration Values ✅
+  - Loading Resources ✅
+  - How to Create Friendly Configuration for a Bundle ✅
+  - How to Load Service Configuration inside a Bundle
+  - How to Simplify Configuration of Multiple Bundles
+
+
 
 ## Code organization
 - [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/5.0/best_practices/business-logic.html)
