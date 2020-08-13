@@ -17,7 +17,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
 - [Symfony Components - symfony.com](https://symfony.com/components) ✅
 
 ## Bridges
-- [What are symfony bridges, bundles and vendor? - stackoverflow.com](https://stackoverflow.com/q/11888522/633864)
+- [What are symfony bridges, bundles and vendor? - stackoverflow.com](https://stackoverflow.com/q/11888522/633864) ✅
 
 ## Configuration
 - [The Config Component - symfony.com](https://symfony.com/doc/5.0/components/config.html)
