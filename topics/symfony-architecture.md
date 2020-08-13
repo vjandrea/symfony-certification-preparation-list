@@ -10,7 +10,8 @@ title: Symfony Architecture - Symfony Certification Preparation List
 - [Using Symfony Flex to Manage Symfony Applications - symfony.com](https://symfony.com/doc/5.0/setup/flex.html) ✅
 
 ## License
-- [Symfony License - symfony.com](https://symfony.com/doc/5.0/contributing/code/license.html)
+- [Symfony License - symfony.com](https://symfony.com/doc/5.0/contributing/code/license.html) ✅
+  - MIT, most used licence in GitHub, can be used in proprietary softwares.
 
 ## Components
 - [Symfony Components - symfony.com](https://symfony.com/components)
