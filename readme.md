@@ -40,7 +40,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
 - [Symfony Architecture](/topics/symfony-architecture.md)
     - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex) ✅
     - [License](/topics/symfony-architecture.md#license) ✅
-    - [Components](/topics/symfony-architecture.md#components)
+    - [Components](/topics/symfony-architecture.md#components) ✅
     - [Bridges](/topics/symfony-architecture.md#bridges)
     - [Configuration](/topics/symfony-architecture.md#configuration)
     - [Code organization](/topics/symfony-architecture.md#code-organization)
