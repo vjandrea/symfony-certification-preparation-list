@@ -14,7 +14,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
   - MIT, most used licence in GitHub, can be used in proprietary softwares.
 
 ## Components
-- [Symfony Components - symfony.com](https://symfony.com/components)
+- [Symfony Components - symfony.com](https://symfony.com/components) ✅
 
 ## Bridges
 - [What are symfony bridges, bundles and vendor? - stackoverflow.com](https://stackoverflow.com/q/11888522/633864)
