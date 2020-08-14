@@ -15,6 +15,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
 
 ## Components
 - [Symfony Components - symfony.com](https://symfony.com/components) ✅
+  - symfony/http-foundation => Request/Response ✅
 
 ## Bridges
 - [What are symfony bridges, bundles and vendor? - stackoverflow.com](https://stackoverflow.com/q/11888522/633864) ✅
@@ -32,7 +33,8 @@ title: Symfony Architecture - Symfony Certification Preparation List
 - [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/5.0/best_practices/business-logic.html) ✅
 
 ## Request handling
-- [Symfony and HTTP Fundamentals - symfony.com](https://symfony.com/doc/5.0/introduction/http_fundamentals.html)
+- [Symfony and HTTP Fundamentals - symfony.com](https://symfony.com/doc/5.0/introduction/http_fundamentals.html) ✅
+  - [Difference Between URI and URL](https://www.differencebetween.com/difference-between-uri-and-vs-url/) ✅
 
 ## Exception handling
 - [How to Customize Error Pages - symfony.com](https://symfony.com/doc/5.0/controller/error_pages.html)
