@@ -30,14 +30,14 @@ title: Symfony Architecture - Symfony Certification Preparation List
   - How to Simplify Configuration of Multiple Bundles ✅
 
 ## Code organization
-- [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/5.0/best_practices/business-logic.html) ✅
+- [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/5.0/best_practices#business-logic) ✅
 
 ## Request handling
 - [Symfony and HTTP Fundamentals - symfony.com](https://symfony.com/doc/5.0/introduction/http_fundamentals.html) ✅
   - [Difference Between URI and URL](https://www.differencebetween.com/difference-between-uri-and-vs-url/) ✅
 
 ## Exception handling
-- [How to Customize Error Pages - symfony.com](https://symfony.com/doc/5.0/controller/error_pages.html)
+- [How to Customize Error Pages - symfony.com](https://symfony.com/doc/5.0/controller/error_pages.html) ✅
 
 ## Event dispatcher and kernel events
 - [Symfony Framework Events - symfony.com](https://symfony.com/doc/5.0/reference/events.html)
@@ -45,7 +45,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
 - [The EventDispatcher Component - symfony.com](https://symfony.com/doc/5.0/components/event_dispatcher.html)
 
 ## Official best practices
-- [Symfony Best Practices - symfony.com](https://symfony.com/doc/5.0/best_practices/index.html)
+- [Symfony Best Practices - symfony.com](https://symfony.com/doc/5.0/best_practices/index.html) ✅
 
 ## Release management
 - [The Release Process - symfony.com](https://symfony.com/doc/5.0/contributing/community/releases.html)
