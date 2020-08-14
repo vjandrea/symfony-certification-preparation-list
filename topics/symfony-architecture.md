@@ -29,7 +29,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
   - How to Simplify Configuration of Multiple Bundles ✅
 
 ## Code organization
-- [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/5.0/best_practices/business-logic.html)
+- [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/5.0/best_practices/business-logic.html) ✅
 
 ## Request handling
 - [Symfony and HTTP Fundamentals - symfony.com](https://symfony.com/doc/5.0/introduction/http_fundamentals.html)
