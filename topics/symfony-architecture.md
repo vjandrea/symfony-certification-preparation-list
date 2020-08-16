@@ -40,7 +40,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
 - [How to Customize Error Pages - symfony.com](https://symfony.com/doc/5.0/controller/error_pages.html) ✅
 
 ## Event dispatcher and kernel events
-- [Symfony Framework Events - symfony.com](https://symfony.com/doc/5.0/reference/events.html)
+- [Symfony Framework Events (8) - symfony.com](https://symfony.com/doc/5.0/reference/events.html) ✅
 - [The HttpKernel Component - symfony.com](https://symfony.com/doc/5.0/components/http_kernel.html)
 - [The EventDispatcher Component - symfony.com](https://symfony.com/doc/5.0/components/event_dispatcher.html)
 
