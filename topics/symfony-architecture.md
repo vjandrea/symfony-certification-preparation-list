@@ -50,10 +50,10 @@ title: Symfony Architecture - Symfony Certification Preparation List
 - [Symfony Best Practices - symfony.com](https://symfony.com/doc/5.0/best_practices/index.html) ✅
 
 ## Release management
-- [The Release Process - symfony.com](https://symfony.com/doc/5.0/contributing/community/releases.html)
+- [The Release Process - symfony.com](https://symfony.com/doc/5.0/contributing/community/releases.html) ✅
 
 ## Backward compatibility promise
-- [Our Backwards Compatibility Promise - symfony.com](https://symfony.com/doc/5.0/contributing/code/bc.html)
+- [Our Backwards Compatibility Promise - symfony.com](https://symfony.com/doc/5.0/contributing/code/bc.html) ✅
 
 ## Deprecations best practices
-- [Deprecations - symfony.com](https://symfony.com/doc/5.0/contributing/code/conventions.html#deprecations)
+- [Deprecations - symfony.com](https://symfony.com/doc/5.0/contributing/code/conventions.html#deprecations) ✅
