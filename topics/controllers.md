@@ -3,11 +3,11 @@ title: Controllers - Symfony Certification Preparation List
 ---
 [Back to index](../readme.md#table-of-contents)
 
-# Controllers
-- [Controller - symfony.com](https://symfony.com/doc/4.0/controller.html)
+# Controllers 🌈
+- [Controller - symfony.com](https://symfony.com/doc/5.0/controller.html) 🌈
 
 ## Naming conventions
-- [Controller Naming Pattern - symfony.com](https://symfony.com/doc/4.0/routing.html#controller-naming-pattern)
+- [Controller Naming Pattern - symfony.com](https://symfony.com/doc/5.0/routing.html#controller-naming-pattern)
 
 ## The base Controller class
 - [AbstractController.php - github.com](https://github.com/symfony/symfony/blob/4.0/src/Symfony/Bundle/FrameworkBundle/Controller/AbstractController.php)
