@@ -51,7 +51,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Release management](/topics/symfony-architecture.md#release-management) ✅
     - [Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise) ✅
     - [Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices) ✅
-- [Standardization](/topics/standardization.md) 🌈
+- [Standardization](/topics/standardization.md) (not in 5.0 list antmore) ❌
     - [Release management and roadmap schedule](/topics/standardization.md#release-management-and-roadmap-schedule)
     - [Framework interoperability and PSRs](/topics/standardization.md#framework-interoperability-and-psrs)
     - [Naming conventions](/topics/standardization.md#naming-conventions)
@@ -61,7 +61,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Development best practices](/topics/standardization.md#development-best-practices)
     - [Framework overloading](/topics/standardization.md#framework-overloading)
     - [Semantic versioning](/topics/standardization.md#semantic-versioning)
-- [Controllers](/topics/controllers.md)
+- [Controllers](/topics/controllers.md) 🌈
     - [Naming conventions](/topics/controllers.md#naming-conventions)
     - [The base Controller class](/topics/controllers.md#the-base-controller-class)
     - [The request](/topics/controllers.md#the-request)
