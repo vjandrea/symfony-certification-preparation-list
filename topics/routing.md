@@ -4,7 +4,7 @@ title: Routing - Symfony Certification Preparation List ✅❌🌈
 [Back to index](../readme.md#table-of-contents)
 
 # Routing
-- [Routing - symfony.com](https://symfony.com/doc/5.0/routing.html)
+- [Routing - symfony.com](https://symfony.com/doc/5.0/routing.html) 🌈
 
 ## Configuration (YAML, XML, PHP & annotations)
 - [Creating Routes - symfony.com](https://symfony.com/doc/5.0/routing.html#creating-routes)
