@@ -5,7 +5,7 @@ title: Templating with Twig - Symfony Certification Preparation List ✅❌🌈
 
 # Templating with Twig
 - [Creating and Using Templates - symfony.com](https://symfony.com/doc/5.0/templating.html) ✅
-- [Twig for Template Designers - twig.sensiolabs.org](https://twig.sensiolabs.org/doc/3.x/templates.html) 
+- [Twig for Template Designers - twig.sensiolabs.org](https://twig.sensiolabs.org/doc/3.x/templates.html) ✅
 
 ## Auto escaping
 - [Output Escaping - symfony.com](https://symfony.com/doc/5.0/templating.html#output-escaping) ✅
@@ -19,7 +19,7 @@ title: Templating with Twig - Symfony Certification Preparation List ✅❌🌈
 - [How to Inject Variables into all Templates (i.e. global Variables - symfony.com](https://symfony.com/doc/5.0/templating/global_variables.html) ✅
 
 ## Filters and functions
-- [Filters - twig.symfony.com](https://twig.symfony.com/doc/3.x/filters/index.html)
+- [Filters - twig.symfony.com](https://twig.symfony.com/doc/3.x/filters/index.html) 🌈
 - [Functions - twig.symfony.com](https://twig.symfony.com/doc/3.x/functions/index.html)
 
 ## Template includes
