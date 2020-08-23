@@ -25,17 +25,17 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Traits](/topics/php-and-web-security.md#traits) ✅
     - [PHP extensions](/topics/php-and-web-security.md#php-extensions) ✅
     - [SPL](/topics/php-and-web-security.md#spl) ✅
-- [HTTP](/topics/http.md) ✅
-    - [Client / Server interaction](/topics/http.md#client--server-interaction)
-    - [Status codes](/topics/http.md#status-codes)
-    - [HTTP request](/topics/http.md#http-request)
-    - [HTTP response](/topics/http.md#http-response)
-    - [HTTP methods](/topics/http.md#http-methods)
-    - [Cookies](/topics/http.md#cookies)
-    - [Caching](/topics/http.md#caching)
-    - [Content negotiation](/topics/http.md#content-negotiation)
-    - [Language detection](/topics/http.md#language-detection)
-    - [Symfony HttpClient component](https://symfony.com/doc/5.0/http_client.html)
+- [HTTP](/topics/http.md) ✅ 
+    - [Client / Server interaction](/topics/http.md#client--server-interaction) ✅ 
+    - [Status codes](/topics/http.md#status-codes) ✅ 
+    - [HTTP request](/topics/http.md#http-request) ✅ 
+    - [HTTP response](/topics/http.md#http-response) ✅ 
+    - [HTTP methods](/topics/http.md#http-methods) ✅ 
+    - [Cookies](/topics/http.md#cookies) ✅ 
+    - [Caching](/topics/http.md#caching) ✅ 
+    - [Content negotiation](/topics/http.md#content-negotiation) ✅ 
+    - [Language detection](/topics/http.md#language-detection) ✅ 
+    - [Symfony HttpClient component](https://symfony.com/doc/5.0/http_client.html) ✅ 
     
 - [Symfony Architecture](/topics/symfony-architecture.md)
     - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex) ✅
@@ -85,7 +85,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [HTTP methods matching](/topics/routing.md#http-methods-matching) ✅
     - [User's locale guessing](/topics/routing.md#users-locale-guessing) ✅
     - [Router debugging](/topics/routing.md#router-debugging) ✅
-- [Templating with Twig](/topics/templating-with-twig.md) ✅ 
+- [Templating with Twig](/topics/templating-with-twig.md) 
     - [Auto escaping](/topics/templating-with-twig.md#auto-escaping) ✅
     - [Template inheritance](/topics/templating-with-twig.md#template-inheritance) ✅
     - [Global variables](/topics/templating-with-twig.md#global-variables) ✅
