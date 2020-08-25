@@ -12,7 +12,7 @@ Please help add new links/info. We currently have not all topics covered. For mo
 
 The exam topics are copied from the [official exam topics](https://sensiolabs.com/en/symfony/certification.html). The master branch contains information for the 4.0 certification. For 3.0, check the 3.0 branch. We do not have a list for 2.3 certification.
 
-## Table of Contents
+## Table of Contents ✅ ❌ 🌈 ⏩
 
 - [PHP](/topics/php-and-web-security.md) ✅
     - [PHP API up to PHP 7.2 version](/topics/php-and-web-security.md#php-api-up-to-php-72-version) ✅
@@ -94,11 +94,11 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Loops and conditions](/topics/templating-with-twig.md#loops-and-conditions) ✅
     - [URLs generation](/topics/templating-with-twig.md#urls-generation) ✅
     - [Controller rendering](/topics/templating-with-twig.md#controller-rendering) ✅
-    - [Translations and pluralization](/topics/templating-with-twig.md#translations-and-pluralization) 🌈
-    - [String interpolation](/topics/templating-with-twig.md#string-interpolation)
-    - [Assets management](/topics/templating-with-twig.md#assets-management)
-    - [Debugging variables](/topics/templating-with-twig.md#debugging-variables)
-- [Forms](/topics/forms.md)
+    - [Translations and pluralization](/topics/templating-with-twig.md#translations-and-pluralization) ✅
+    - [String interpolation](/topics/templating-with-twig.md#string-interpolation) ✅
+    - [Assets management](/topics/templating-with-twig.md#assets-management) ✅ ⏩
+    - [Debugging variables](/topics/templating-with-twig.md#debugging-variables) ✅ 
+- [Forms](/topics/forms.md) 🌈
     - [Forms creation](/topics/forms.md#forms-creation)
     - [Forms handling](/topics/forms.md#forms-handling)
     - [Form types](/topics/forms.md#form-types)
