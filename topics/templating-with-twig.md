@@ -35,13 +35,13 @@ title: Templating with Twig - Symfony Certification Preparation List ✅❌🌈
 - [How to Embed Controllers in a Template - symfony.com](https://symfony.com/doc/5.1/templates.html#embedding-controllers) ✅
 
 ## Translations and pluralization
-- [Translations - symfony.com](https://symfony.com/doc/5.1/translation.html) 🌈
+- [Translations - symfony.com](https://symfony.com/doc/5.1/translation.html) ✅
 
 ## String interpolation
-- [Twig's string interpolation feature - twig.symfony.com](https://twig.symfony.com/doc/3.x/templates.html#string-interpolation)
+- [Twig's string interpolation feature - twig.symfony.com](https://twig.symfony.com/doc/3.x/templates.html#string-interpolation) ✅
 
 ## Assets management
-- [Managing CSS and Javascript - symfony.com](https://symfony.com/doc/5.1/frontend.html)
+- [Managing CSS and Javascript - symfony.com](https://symfony.com/doc/5.1/frontend.html) ✅ ➡
 
 ## Debugging variables
-- [How to Dump Debug Information in Twig Templates](https://symfony.com/doc/5.1/templating/debug.html)
+- [How to Dump Debug Information in Twig Templates](https://symfony.com/doc/current/templates.html#debugging-templates) ✅
