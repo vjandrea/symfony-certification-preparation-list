@@ -10,19 +10,19 @@ title: Forms - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩
 - [Creating a Simple Form - symfony.com](https://symfony.com/doc/current/forms.html#creating-forms-in-controllers) ✅  
 
 ## Forms handling
-- [Handling Form Submissions - symfony.com](https://symfony.com/doc/5.1/forms.html#handling-form-submissions) ✅ 
+- [Handling Form Submissions - symfony.com](https://symfony.com/doc/current/forms.html#processing-forms) ✅ 
 
 ## Form types
 - [Creating Form Classes - symfony.com](https://symfony.com/doc/5.1/forms.html#creating-form-classes) ✅ 
 
 ## Forms rendering with Twig
-- [Rendering the Form - symfony.com](https://symfony.com/doc/5.1/forms.html#rendering-the-form) ✅ 
+- [Rendering the Form - symfony.com](https://symfony.com/doc/current/forms.html#rendering-forms) ✅ 
 
 ## Forms theming
-- [How to Work with Form Themes - symfony.com](https://symfony.com/doc/5.1/form/form_themes.html) 🌈
+- [How to Work with Form Themes - symfony.com](https://symfony.com/doc/5.1/form/form_themes.html) ✅
 
 ## CSRF protection
-- [How to Implement CSRF Protection - symfony.com](https://symfony.com/doc/5.1/security/csrf.html)
+- [How to Implement CSRF Protection - symfony.com](https://symfony.com/doc/5.1/security/csrf.html) 🌈 
 
 ## Handling file upload
 - [How to Upload Files - symfony.com](https://symfony.com/doc/5.1/controller/upload_file.html)
