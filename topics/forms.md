@@ -22,19 +22,19 @@ title: Forms - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩
 - [How to Work with Form Themes - symfony.com](https://symfony.com/doc/5.1/form/form_themes.html) ✅
 
 ## CSRF protection
-- [How to Implement CSRF Protection - symfony.com](https://symfony.com/doc/5.1/security/csrf.html) 🌈 
+- [How to Implement CSRF Protection - symfony.com](https://symfony.com/doc/5.1/security/csrf.html) ✅
 
 ## Handling file upload
-- [How to Upload Files - symfony.com](https://symfony.com/doc/5.1/controller/upload_file.html)
+- [How to Upload Files - symfony.com](https://symfony.com/doc/5.1/controller/upload_file.html) ✅
 
 ## Built-in form types
-- [Built-in Field types - symfony.com](https://symfony.com/doc/5.1/forms.html#built-in-field-types)
+- [Built-in Field types - symfony.com](https://symfony.com/doc/current/reference/forms/types.html) ✅
 
 ## Data transformers
 - [How to Use Data Transformers - symfony.com](https://symfony.com/doc/5.1/form/data_transformers.html) ✅
 
 ## Form events
-- [Form Events - symfony.com](https://symfony.com/doc/5.1/form/events.html)
+- [Form Events - symfony.com](https://symfony.com/doc/5.1/form/events.html) ✅ 
 5
 ## Form type extensions
-- [How to Create a Form Type Extension - symfony.com](https://symfony.com/doc/5.1/form/create_form_type_extension.html)
+- [How to Create a Form Type Extension - symfony.com](https://symfony.com/doc/5.1/form/create_form_type_extension.html) ✅
