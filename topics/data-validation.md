@@ -1,28 +1,28 @@
 ---
-title: Data Validation - Symfony Certification Preparation List
+title: Data Validation - Symfony Certification Preparation List ✅ 
 ---
 [Back to index](../readme.md#table-of-contents)
 
 # Data Validation
-- [Validation - symfony.com](https://symfony.com/doc/5.1/validation.html)
+- [Validation - symfony.com](https://symfony.com/doc/5.1/validation.html) ✅
 
 ## PHP object validation
-- [The Basics of Validation - symfony.com](https://symfony.com/doc/5.1/validation.html#the-basics-of-validation)
+- [The Basics of Validation - symfony.com](https://symfony.com/doc/5.1/validation.html#the-basics-of-validation) ✅
 
 ## Built-in validation constraints
-- [Supported Constraints - symfony.com](https://symfony.com/doc/5.1/validation.html#supported-constraints)
+- [Supported Constraints - symfony.com](https://symfony.com/doc/5.1/validation.html#supported-constraints) ✅
 
 ## Validation scopes
-- [Constraint Targets - symfony.com](https://symfony.com/doc/5.1/validation.html#constraint-targets)
+- [Constraint Targets - symfony.com](https://symfony.com/doc/5.1/validation.html#constraint-targets) ✅
 
 ## Validation groups
-- [How to Apply only a Subset of all Your Validation Constraints (Validation Groups) - symfony.com](https://symfony.com/doc/5.1/validation/groups.html)
+- [How to Apply only a Subset of all Your Validation Constraints (Validation Groups) - symfony.com](https://symfony.com/doc/5.1/validation/groups.html) ✅
 
 ## Group sequence
-- [How to Sequentially Apply Validation Groups - symfony.com](https://symfony.com/doc/5.1/validation/sequence_provider.html)
+- [How to Sequentially Apply Validation Groups - symfony.com](https://symfony.com/doc/5.1/validation/sequence_provider.html) ✅
 
 ## Custom callback validators
-- [Callback Constraint - symfony.com](https://symfony.com/doc/5.1/reference/constraints/Callback.html)
+- [Callback Constraint - symfony.com](https://symfony.com/doc/5.1/reference/constraints/Callback.html) ✅
 
 ## Violations builder
-- [Custom Validation Constraint - symfony.com](https://symfony.com/doc/5.1/validation/custom_constraint.html)
+- [Custom Validation Constraint - symfony.com](https://symfony.com/doc/5.1/validation/custom_constraint.html) ✅
