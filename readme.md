@@ -98,19 +98,19 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [String interpolation](/topics/templating-with-twig.md#string-interpolation) ✅
     - [Assets management](/topics/templating-with-twig.md#assets-management) ✅ ⏩
     - [Debugging variables](/topics/templating-with-twig.md#debugging-variables) ✅ 
-- [Forms](/topics/forms.md) 🌈
-    - [Forms creation](/topics/forms.md#forms-creation)
-    - [Forms handling](/topics/forms.md#forms-handling)
-    - [Form types](/topics/forms.md#form-types)
-    - [Forms rendering with Twig](/topics/forms.md#forms-rendering-with-twig)
-    - [Forms theming](/topics/forms.md#forms-theming)
-    - [CSRF protection](/topics/forms.md#csrf-protection)
-    - [Handling file upload](/topics/forms.md#handling-file-upload)
-    - [Built-in form types](/topics/forms.md#built-in-form-types)
-    - [Data transformers](/topics/forms.md#data-transformers)
-    - [Form events](/topics/forms.md#form-events)
-    - [Form type extensions](/topics/forms.md#form-type-extensions)
-- [Data Validation](/topics/data-validation.md)
+- [Forms](/topics/forms.md) ✅ 
+    - [Forms creation](/topics/forms.md#forms-creation) ✅ 
+    - [Forms handling](/topics/forms.md#forms-handling) ✅ 
+    - [Form types](/topics/forms.md#form-types) ✅ 
+    - [Forms rendering with Twig](/topics/forms.md#forms-rendering-with-twig) ✅ 
+    - [Forms theming](/topics/forms.md#forms-theming) ✅ 
+    - [CSRF protection](/topics/forms.md#csrf-protection) ✅ 
+    - [Handling file upload](/topics/forms.md#handling-file-upload) ✅ 
+    - [Built-in form types](/topics/forms.md#built-in-form-types) ✅ 
+    - [Data transformers](/topics/forms.md#data-transformers) ✅ 
+    - [Form events](/topics/forms.md#form-events) ✅ 
+    - [Form type extensions](/topics/forms.md#form-type-extensions) ✅ 
+- [Data Validation](/topics/data-validation.md) 🌈
     - [PHP object validation](/topics/data-validation.md#php-object-validation)
     - [Built-in validation constraints](/topics/data-validation.md#built-in-validation-constraints)
     - [Validation scopes](/topics/data-validation.md#validation-scopes)
