@@ -8,23 +8,23 @@ title: Security - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩ (menu 
 
 ## Authentication
 - [Authentication - symfony.com](https://symfony.com/doc/5.0/components/security/authentication.html) ✅
-- [How to Build a Traditional Login Form - symfony.com](https://symfony.com/doc/5.0/security/form_login_setup.html) 🌈
-- [How to Load Security Users from the Database (the Entity Provider) - symfony.com](https://symfony.com/doc/5.0/security/entity_provider.html)
-- [How to Impersonate a User - symfony.com](https://symfony.com/doc/5.0/security/impersonating_user.html)
-- [How to Authenticate Users with API Keys - symfony.com](https://symfony.com/doc/5.0/security/api_key_authentication.html)
+- [How to Build a Login Form - symfony.com](https://symfony.com/doc/5.0/security/form_login_setup.html) ✅
+- [Security User Providers - symfony.com](https://symfony.com/doc/5.0/security/user_provider.html) ✅
+- [How to Impersonate a User - symfony.com](https://symfony.com/doc/5.0/security/impersonating_user.html) ✅
+- [How to Authenticate Users with API Keys - symfony.com](https://symfony.com/doc/5.0/security/guard_authentication.html) ✅
 
 ## Authorization
-- [Denying Access, Roles and other Authorization - symfony.com](https://symfony.com/doc/5.0/security.html#denying-access-roles-and-other-authorization)
+- [Denying Access, Roles and other Authorization - symfony.com](https://symfony.com/doc/5.0/security.html#denying-access-roles-and-other-authorization) ✅
 
 ## Configuration
-- [Initial security.yml Setup (Authentication) - symfony.com](https://symfony.com/doc/5.0/security.html#initial-security-yml-setup-authentication)
+- [Initial security.yml Setup (Authentication) - symfony.com](https://symfony.com/doc/5.0/security.html#initial-security-yml-setup-authentication) ✅
 
 ## Providers
-- [How to Create a custom Authentication Provider - symfony.com](https://symfony.com/doc/5.0/security/custom_authentication_provider.html)
-- [How to Create a custom User Provider - symfony.com](https://symfony.com/doc/5.0/security/custom_provider.html)
+- [How to Create a custom Authentication Provider - symfony.com](https://symfony.com/doc/5.0/security/custom_authentication_provider.html) ✅ ⏩ (dur à revoir)
+- [How to Create a custom User Provider - symfony.com](https://symfony.com/doc/5.0/security/user_provider.html#creating-a-custom-user-provider) ✅
 
 ## Firewalls
-- [How to Restrict Firewalls to a Specific Request - symfony.com](https://symfony.com/doc/5.0/security/firewall_restriction.html)
+- [How to Restrict Firewalls to a Specific Request - symfony.com](https://symfony.com/doc/5.0/security/firewall_restriction.html) 🌈
 
 ## Users
 
