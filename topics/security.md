@@ -14,6 +14,7 @@ title: Security - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩ (menu 
 - [How to Authenticate Users with API Keys - symfony.com](https://symfony.com/doc/5.0/security/guard_authentication.html) ✅
 
 ## Authorization
+- [Authorization](https://symfony.com/doc/5.0/components/security/authorization.html) ✅
 - [Denying Access, Roles and other Authorization - symfony.com](https://symfony.com/doc/5.0/security.html#denying-access-roles-and-other-authorization) ✅
 
 ## Configuration
@@ -24,21 +25,20 @@ title: Security - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩ (menu 
 - [How to Create a custom User Provider - symfony.com](https://symfony.com/doc/5.0/security/user_provider.html#creating-a-custom-user-provider) ✅
 
 ## Firewalls
-- [How to Restrict Firewalls to a Specific Request - symfony.com](https://symfony.com/doc/5.0/security/firewall_restriction.html) 🌈
+- [How to Restrict Firewalls to a Specific Request - symfony.com](https://symfony.com/doc/5.0/security/firewall_restriction.html) ✅
 
 ## Users
 
 ## Passwords encoders
-- [Encoding the User's Password - symfony.com](https://symfony.com/doc/5.0/security.html#c-encoding-the-user-s-password)
-- [How to Manually Encode a Password - symfony.com](https://symfony.com/doc/5.0/security/password_encoding.html)
+- [Encoding the User's Password - symfony.com](https://symfony.com/doc/5.0/security.html#c-encoding-passwords)  ✅
 
 ## Roles
-- [Roles - symfony.com](https://symfony.com/doc/5.0/security.html#roles)
+- [Roles - symfony.com](https://symfony.com/doc/5.0/security.html#roles) ✅ 
 
 ## Access Control Rules
 
 ## Guard authenticators
-- [How to Create a Custom Authentication System with Guard - symfony.com](https://symfony.com/doc/5.0/security/guard_authentication.html)
+- [How to Create a Custom Authentication System with Guard - symfony.com](https://symfony.com/doc/5.0/security/guard_authentication.html) ✅ 
 
 ## Voters and voting strategies
-- [How to Use Voters to Check User Permissions - symfony.com](https://symfony.com/doc/5.0/security/voters.html)
+- [How to Use Voters to Check User Permissions - symfony.com](https://symfony.com/doc/5.0/security/voters.html) ✅
