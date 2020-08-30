@@ -1,5 +1,5 @@
 ---
-title: HTTP Caching - Symfony Certification Preparation List
+title: HTTP Caching - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩
 ---
 [Back to index](../readme.md#table-of-contents)
 
@@ -7,11 +7,11 @@ title: HTTP Caching - Symfony Certification Preparation List
 - [HTTP Cache - symfony.com](https://symfony.com/doc/5.0/http_cache.html) ✅
 - [Things Caches Do - tomayko.com](https://tomayko.com/blog/2008/things-caches-do) ✅
 - [Caching Tutorial - mnot.net](https://www.mnot.net/cache_docs/) ✅
-- [HTTP caching - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
-- [HTTP Caching Web Fundamentals - developers.google.com](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
+- [HTTP caching - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching) ✅
+- [HTTP Caching Web Fundamentals - developers.google.com](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching) ✅
 
 ## Cache types (browser, proxies, and reverse-proxies)
-- [Kinds of Web Caches - Caching Tutorial - mnot.net](https://www.mnot.net/cache_docs/#KINDS)
+- [Kinds of Web Caches - Caching Tutorial - mnot.net](https://www.mnot.net/cache_docs/#KINDS) 🌈
 
 ## Expiration (Expires, Cache-Control)
 - [HTTP Cache Expiration - symfony.com](https://symfony.com/doc/5.0/http_cache/expiration.html) ✅
