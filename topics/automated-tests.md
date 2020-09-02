@@ -32,6 +32,6 @@ Menu vérifié.
 - [Accessing Internal Objects - symfony.com](https://symfony.com/doc/5.0/testing.html#accessing-internal-objects) ✅
 
 ## PHPUnit bridge
-- [The PHPUnit Bridge - symfony.com](https://symfony.com/doc/5.0/components/phpunit_bridge.html) 🌈
+- [The PHPUnit Bridge - symfony.com](https://symfony.com/doc/5.0/components/phpunit_bridge.html) ✅ (à relire)
 
 ## Handling legacy deprecated code
