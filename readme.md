@@ -168,15 +168,15 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [PHPUnit bridge](/topics/automated-tests.md#phpunit-bridge) ✅ 
     - [Handling legacy deprecated code](/topics/automated-tests.md#handling-legacy-deprecated-code) ✅
 - [Miscellaneous](/topics/miscellaneous.md) 🌈
-    - Configuration (including DotEnv and ExpressionLanguage components)
+    - [Configuration (including DotEnv and ExpressionLanguage components)](/topics/miscellaneous.md#configuration-including-dotenv-and-expressionlanguage-components)
     - [Error handling](/topics/miscellaneous.md#error-handling) ✅ 
-    - [Code debugging](/topics/miscellaneous.md#code-debugging)
+    - [Code debugging](/topics/miscellaneous.md#code-debugging) 
     - [Deployment best practices](/topics/miscellaneous.md#deployment-best-practices)
-    - Process and Serializer components
-    - Messenger component
-    - Mime and Mailer components
-    - Filesystem and Finder components
-    - Lock component
+    - [Process and Serializer components](/topics/miscellaneous.md#process-and-serializer-components)
+    - [Messenger component](/topics/miscellaneous.md#messenger-component)
+    - [Mime and Mailer components](/topics/miscellaneous.md#mime-and-mailer-components)
+    - [Filesystem and Finder components](/topics/miscellaneous.md#filesystem-and-finder-components)
+    - [Lock component](/topics/miscellaneous.md#lock-component)
     - [Web Profiler and Web Debug Toolbar](/topics/miscellaneous.md#web-profiler-and-web-debug-toolbar)
     - [Internationalization and localization](/topics/miscellaneous.md#internationalization-and-localization)
     
