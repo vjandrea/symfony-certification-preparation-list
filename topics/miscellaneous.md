@@ -24,16 +24,15 @@ title: Miscellaneous - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩
 - [The Serializer Component - symfony.com](https://symfony.com/doc/5.0/components/serializer.html)
 - [How to Use the Serializer - symfony.com](https://symfony.com/doc/5.0/serializer.html)
 
-## Messenger component (todo) ⏩ 
+## Messenger component
 
-## Mime and Mailer components (todo) ⏩ 
+## Mime and Mailer components
 
-## Filesystem and Finder components (todo) ⏩ 
+## Filesystem and Finder components
 
-## Lock component (todo) ⏩ 
+## Lock component
 
-## Web Profiler and Web Debug Toolbar (todo) ⏩ 
-
+## Web Profiler and Web Debug Toolbar
 - [How to Create a custom Data Collector]https://symfony.com/doc/5.0/profiler/data_collector.html (ajouté)
 
 ## Internationalization and localization
