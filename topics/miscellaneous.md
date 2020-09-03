@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩ 
+title: Miscellaneous - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩ 🤡
 ---
 [Back to index](../readme.md#table-of-contents)
 
@@ -9,23 +9,23 @@ title: Miscellaneous - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩
 
 - [Configure your Environment Variables](https://symfony.com/doc/5.0/deployment.html#b-configure-your-environment-variables) ✅ 
 - [DotEnv component](https://github.com/symfony/dotenv) ✅ 
-- [ExpressionLanguage component](https://symfony.com/doc/5.0/components/expression_language.html) 🌈
+- [ExpressionLanguage component](https://symfony.com/doc/5.0/components/expression_language.html) ✅ ⏩ (chapitres pour aller plus en profondeur)
 
 ## Error handling
 - [How to Customize Error Pages - symfony.com](https://symfony.com/doc/5.0/controller/error_pages.html) ✅ 
 
 ## Code debugging
-- [The Debug Component - symfony.com](https://symfony.com/doc/5.0/components/debug.html)
+- [The Debug Component - symfony.com](https://github.com/symfony/error-handler) ⏩ Github
 
 ## Deployment best practices
-- [How to Deploy a Symfony Application - symfony.com](https://symfony.com/doc/5.0/deployment.html)
+- [How to Deploy a Symfony Application - symfony.com](https://symfony.com/doc/5.0/deployment.html) ✅ 
 
 ## Process and Serializer components
-- [The Process Component - symfony.com](https://symfony.com/doc/5.0/components/process.html)
-- [The Serializer Component - symfony.com](https://symfony.com/doc/5.0/components/serializer.html)
-- [How to Use the Serializer - symfony.com](https://symfony.com/doc/5.0/serializer.html)
+- [The Process Component - symfony.com](https://symfony.com/doc/5.0/components/process.html) ✅ 🤡
+- [The Serializer Component - symfony.com](https://symfony.com/doc/5.0/components/serializer.html) ✅  
+- [How to Use the Serializer - symfony.com](https://symfony.com/doc/5.0/serializer.html) ✅
 
-## Messenger component
+## Messenger component 🌈
 
 ## Mime and Mailer components
 
