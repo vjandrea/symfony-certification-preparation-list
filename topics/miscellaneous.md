@@ -3,12 +3,13 @@ title: Miscellaneous - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩
 ---
 [Back to index](../readme.md#table-of-contents)
 
-# Miscellaneous 🌈 
+# Miscellaneous
 
 ##  Configuration (including DotEnv and ExpressionLanguage components) 
 
-- [DotEnv component](https://symfony.com/doc/5.0/deployment.html#b-configure-your-environment-variables) 🌈
-- [ExpressionLanguage component](https://symfony.com/doc/5.0/components/expression_language.html) 
+- [Configure your Environment Variables](https://symfony.com/doc/5.0/deployment.html#b-configure-your-environment-variables) ✅ 
+- [DotEnv component](https://github.com/symfony/dotenv) ✅ 
+- [ExpressionLanguage component](https://symfony.com/doc/5.0/components/expression_language.html) 🌈
 
 ## Error handling
 - [How to Customize Error Pages - symfony.com](https://symfony.com/doc/5.0/controller/error_pages.html) ✅ 
