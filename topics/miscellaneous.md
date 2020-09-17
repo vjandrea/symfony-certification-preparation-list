@@ -26,6 +26,7 @@ title: Miscellaneous - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩ �
 - [How to Use the Serializer - symfony.com](https://symfony.com/doc/5.0/serializer.html) ✅
 
 ## Messenger component 🌈
+- [The Messenger component](https://symfony.com/doc/5.0/components/messenger.html) 🌈
 
 ## Mime and Mailer components
 
