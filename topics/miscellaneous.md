@@ -27,6 +27,7 @@ title: Miscellaneous - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩ �
 
 ## Messenger component 🌈
 - [The Messenger component](https://symfony.com/doc/5.0/components/messenger.html) 🌈
+- [Messenger: Sync & Queued Message Handling](https://symfony.com/doc/5.0/messenger.html) 
 
 ## Mime and Mailer components
 
