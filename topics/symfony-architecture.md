@@ -13,7 +13,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
          "symfony/symfony": "*"
     }
 ```  
-Indique indique ne jamais jamais réinstaller symfony/symfony car les composants sont désormais gérés par Flex.
+Indique de ne jamais jamais réinstaller symfony/symfony car les composants sont désormais gérés par Flex.
 
 ## License ✅
 - [Symfony License - symfony.com](https://symfony.com/doc/5.0/contributing/code/license.html) ✅
