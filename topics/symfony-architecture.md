@@ -5,29 +5,40 @@ title: Symfony Architecture - Symfony Certification Preparation List
 
 # Symfony Architecture ✅ ❌ 🌈 ⏩ 🤡
 
-## Symfony Flex 🌈
-- [Symfony 5.0 Documentation - symfony.com](https://symfony.com/doc/5.0/index.html) 
-- [Using Symfony Flex to Manage Symfony Applications - symfony.com](https://symfony.com/doc/5.0/setup/flex.html) 
+## Symfony Flex ✅
+- [Using Symfony Flex to Manage Symfony Applications - symfony.com](https://symfony.com/doc/5.0/setup/flex.html)  ✅
 
-## License
-- [Symfony License - symfony.com](https://symfony.com/doc/5.0/contributing/code/license.html) 
-  - MIT, most used licence in GitHub, can be used in proprietary softwares.
+```  
+    "conflict": {
+         "symfony/symfony": "*"
+    }
+```  
+Indique indique ne jamais jamais réinstaller symfony/symfony car les composants sont désormais gérés par Flex.
 
-## Components
-- [Symfony Components - symfony.com](https://symfony.com/components) 
-  - symfony/http-foundation => Request/Response 
+## License ✅
+- [Symfony License - symfony.com](https://symfony.com/doc/5.0/contributing/code/license.html) ✅
 
-## Bridges
+MIT, most used licence in GitHub, can be used in proprietary softwares.
+
+## Components ✅
+- [Symfony Components - symfony.com](https://symfony.com/components) ✅
+
+* EventDispatcher => mediator pattern
+* symfony/http-foundation => Request/Response 
+* CType => ctype.h 
+
+## Bridges ✅
 - [What are symfony bridges, bundles and vendor? - stackoverflow.com](https://stackoverflow.com/q/11888522/633864) 
 
-## Configuration
-- [The Config Component - symfony.com](https://symfony.com/doc/5.0/components/config.html)
-  - Caching based on Resources 
-  - Defining and Processing Configuration Values 
-  - Loading Resources 
-  - How to Create Friendly Configuration for a Bundle 
-  - How to Load Service Configuration inside a Bundle 
-  - How to Simplify Configuration of Multiple Bundles 
+## Configuration ✅
+- [The Config Component - symfony.com](https://symfony.com/doc/5.0/components/config.html) 🌈
+  - Caching based on Resources ✅
+  - Defining and Processing Configuration Values ✅
+    - arrayPrototype : quand on a un tableau
+  - Loading Resources ✅
+  - How to Create Friendly Configuration for a Bundle ✅
+  - How to Load Service Configuration inside a Bundle ✅
+  - How to Simplify Configuration of Multiple Bundles ✅
 
 ## Code organization
 - [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/5.0/best_practices#business-logic) 
