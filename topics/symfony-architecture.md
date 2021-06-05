@@ -40,17 +40,17 @@ MIT, most used licence in GitHub, can be used in proprietary softwares.
   - How to Load Service Configuration inside a Bundle ✅
   - How to Simplify Configuration of Multiple Bundles ✅
 
-## Code organization
-- [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/5.0/best_practices#business-logic) 
+## Code organization ✅
+- [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/5.0/best_practices#business-logic) ✅
 
-## Request handling
-- [Symfony and HTTP Fundamentals - symfony.com](https://symfony.com/doc/5.0/introduction/http_fundamentals.html) 
-  - [Difference Between URI and URL](https://www.differencebetween.com/difference-between-uri-and-vs-url/) 
+## Request handling ✅
+- [Symfony and HTTP Fundamentals - symfony.com](https://symfony.com/doc/5.0/introduction/http_fundamentals.html)  ✅
+  - [Difference Between URI and URL](https://www.differencebetween.com/difference-between-uri-and-vs-url/) ✅ 
 
-## Exception handling
-- [How to Customize Error Pages - symfony.com](https://symfony.com/doc/5.0/controller/error_pages.html) 
+## Exception handling ✅
+- [How to Customize Error Pages - symfony.com](https://symfony.com/doc/5.0/controller/error_pages.html) ✅
 
-## Event dispatcher and kernel events
+## Event dispatcher and kernel events 🌈
 - [Symfony Framework Events - symfony.com](https://symfony.com/doc/5.0/reference/events.html) 
   - [Kernel Event table (8, RCCV-RFTE 🐘)](https://symfony.com/doc/5.0/components/http_kernel.html#component-http-kernel-event-table) 
 - [The HttpKernel Component - symfony.com](https://symfony.com/doc/5.0/components/http_kernel.html) 
