@@ -44,9 +44,9 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Components](/topics/symfony-architecture.md#components) ✅
     - [Bridges](/topics/symfony-architecture.md#bridges) ✅
     - [Configuration](/topics/symfony-architecture.md#configuration) ✅
-    - [Code organization](/topics/symfony-architecture.md#code-organization) 
-    - [Request handling](/topics/symfony-architecture.md#request-handling) 
-    - [Exception handling](/topics/symfony-architecture.md#exception-handling) 
+    - [Code organization](/topics/symfony-architecture.md#code-organization)  ✅
+    - [Request handling](/topics/symfony-architecture.md#request-handling) ✅ 
+    - [Exception handling](/topics/symfony-architecture.md#exception-handling) ✅ 
     - [Event dispatcher and kernel events](/topics/symfony-architecture.md#event-dispatcher-and-kernel-events) 
     - [Official best practices](/topics/symfony-architecture.md#official-best-practices) 
     - [Release management](/topics/symfony-architecture.md#release-management) 
