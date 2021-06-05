@@ -14,7 +14,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
 
 ## Table of Contents ✅ ❌ 🌈 ⏩ 🤡
 
-- [PHP](/topics/php-and-web-security.md) 🌈
+- [PHP](/topics/php-and-web-security.md) 
     - [PHP API up to PHP 7.2 version](/topics/php-and-web-security.md#php-api-up-to-php-72-version) 
     - [Object Oriented Programming](/topics/php-and-web-security.md#object-oriented-programming) 
     - [Namespaces](/topics/php-and-web-security.md#namespaces) 
@@ -25,6 +25,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Traits](/topics/php-and-web-security.md#traits) 
     - [PHP extensions](/topics/php-and-web-security.md#php-extensions) 
     - [SPL](/topics/php-and-web-security.md#spl) 
+
 - [HTTP](/topics/http.md) 
     - [Client / Server interaction](/topics/http.md#client--server-interaction) 
     - [Status codes](/topics/http.md#status-codes) 
@@ -37,12 +38,12 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Language detection](/topics/http.md#language-detection)  
     - [Symfony HttpClient component](https://symfony.com/doc/5.0/http_client.html) 
     
-- [Symfony Architecture](/topics/symfony-architecture.md)
-    - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex) 
-    - [License](/topics/symfony-architecture.md#license) 
-    - [Components](/topics/symfony-architecture.md#components) 
-    - [Bridges](/topics/symfony-architecture.md#bridges) 
-    - [Configuration](/topics/symfony-architecture.md#configuration) 
+- [Symfony Architecture](/topics/symfony-architecture.md) 🌈
+    - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex) ✅
+    - [License](/topics/symfony-architecture.md#license) ✅
+    - [Components](/topics/symfony-architecture.md#components) ✅
+    - [Bridges](/topics/symfony-architecture.md#bridges) ✅
+    - [Configuration](/topics/symfony-architecture.md#configuration) ✅
     - [Code organization](/topics/symfony-architecture.md#code-organization) 
     - [Request handling](/topics/symfony-architecture.md#request-handling) 
     - [Exception handling](/topics/symfony-architecture.md#exception-handling) 
@@ -51,6 +52,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Release management](/topics/symfony-architecture.md#release-management) 
     - [Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise) 
     - [Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices) 
+
 - [Standardization](/topics/standardization.md) (not in 5.0 list antmore) ❌
     - [Release management and roadmap schedule](/topics/standardization.md#release-management-and-roadmap-schedule)
     - [Framework interoperability and PSRs](/topics/standardization.md#framework-interoperability-and-psrs)
@@ -61,6 +63,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Development best practices](/topics/standardization.md#development-best-practices)
     - [Framework overloading](/topics/standardization.md#framework-overloading)
     - [Semantic versioning](/topics/standardization.md#semantic-versioning)
+
 - [Controllers](/topics/controllers.md) 
     - [The base Controller class](/topics/controllers.md#the-base-controller-class) 
     - [The request](/topics/controllers.md#the-request) 
@@ -73,6 +76,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Generate 404 pages](/topics/controllers.md#generate-404-pages) 
     - [File upload](/topics/controllers.md#file-upload) 
     - [Built-in internal controllers](/topics/controllers.md#built-in-internal-controllers) 
+
 - [Routing](/topics/routing.md) 
     - [Configuration (YAML, XML, PHP & annotations)](/topics/routing.md#configuration-yaml-xml-php--annotations) 
     - [Restrict URL parameters](/topics/routing.md#restrict-url-parameters) 
@@ -85,6 +89,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [HTTP methods matching](/topics/routing.md#http-methods-matching) 
     - [User's locale guessing](/topics/routing.md#users-locale-guessing) 
     - [Router debugging](/topics/routing.md#router-debugging) 
+
 - [Templating with Twig](/topics/templating-with-twig.md) 
     - [Auto escaping](/topics/templating-with-twig.md#auto-escaping) 
     - [Template inheritance](/topics/templating-with-twig.md#template-inheritance) 
@@ -98,6 +103,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [String interpolation](/topics/templating-with-twig.md#string-interpolation) 
     - [Assets management](/topics/templating-with-twig.md#assets-management) 
     - [Debugging variables](/topics/templating-with-twig.md#debugging-variables) 
+
 - [Forms](/topics/forms.md) 
     - [Forms creation](/topics/forms.md#forms-creation) 
     - [Forms handling](/topics/forms.md#forms-handling) 
@@ -110,6 +116,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Data transformers](/topics/forms.md#data-transformers) 
     - [Form events](/topics/forms.md#form-events) 
     - [Form type extensions](/topics/forms.md#form-type-extensions) 
+
 - [Data Validation](/topics/data-validation.md) 
     - [PHP object validation](/topics/data-validation.md#php-object-validation) 
     - [Built-in validation constraints](/topics/data-validation.md#built-in-validation-constraints) 
@@ -118,6 +125,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Group sequence](/topics/data-validation.md#group-sequence) 
     - [Custom callback validators](/topics/data-validation.md#custom-callback-validators) 
     - [Violations builder](/topics/data-validation.md#violations-builder) 
+
 - [Dependency Injection](/topics/dependency-injection.md) 
     - [Service container](/topics/dependency-injection.md#service-container) 
     - [Built-in services](/topics/dependency-injection.md#built-in-services) 
@@ -128,6 +136,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Factories](/topics/dependency-injection.md#factories) 
     - [Compiler passes](/topics/dependency-injection.md#compiler-passes) 
     - [Services autowiring](/topics/dependency-injection.md#services-autowiring) 
+
 - [Security](/topics/security.md) 
     - [Authentication](/topics/security.md#authentication) 
     - [Authorization](/topics/security.md#authorization) 
@@ -140,6 +149,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Access Control Rules](/topics/security.md#access-control-rules) 
     - [Guard authenticators](/topics/security.md#guard-authenticators) 
     - [Voters and voting strategies](/topics/security.md#voters-and-voting-strategies) 
+
 - [HTTP Caching](/topics/http-caching.md) 
     - [Cache types (browser, proxies and reverse-proxies)](/topics/http-caching.md#cache-types-browser-proxies-and-reverse-proxies) 
     - [Expiration (Expires, Cache-Control)](/topics/http-caching.md#expiration-expires-cache-control) 
@@ -147,6 +157,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Client side caching](/topics/http-caching.md#client-side-caching) 
     - [Server side caching](/topics/http-caching.md#server-side-caching) 
     - [Edge Side Includes](/topics/http-caching.md#edge-side-includes) 
+
 - [Console](/topics/console.md) 
     - [Built-in commands](/topics/console.md#built-in-commands) 
     - [Custom commands](/topics/console.md#custom-commands) 
@@ -156,6 +167,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Built-in helpers](/topics/console.md#built-in-helpers) 
     - [Console events](/topics/console.md#console-events) 
     - [Verbosity levels](/topics/console.md#verbosity-levels) 
+
 - [Automated Tests](/topics/automated-tests.md) 
     - [Unit tests with PHPUnit](/topics/automated-tests.md#unit-tests-with-phpunit) 
     - [Functional tests with PHPUnit](/topics/automated-tests.md#functional-tests-with-phpunit) 
@@ -167,7 +179,8 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Request and response objects introspection](/topics/automated-tests.md#request-and-response-objects-introspection) 
     - [PHPUnit bridge](/topics/automated-tests.md#phpunit-bridge) 
     - [Handling legacy deprecated code](/topics/automated-tests.md#handling-legacy-deprecated-code) 
-- [Miscellaneous](/topics/miscellaneous.md) �
+
+- [Miscellaneous](/topics/miscellaneous.md)
     - [Configuration (including DotEnv and ExpressionLanguage components)](/topics/miscellaneous.md#configuration-including-dotenv-and-expressionlanguage-components)
     - [Error handling](/topics/miscellaneous.md#error-handling) 
     - [Code debugging](/topics/miscellaneous.md#code-debugging) 
