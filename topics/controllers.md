@@ -3,7 +3,7 @@ title: Controllers - Symfony Certification Preparation List
 ---
 [Back to index](../readme.md#table-of-contents)
 
-# Controllers ✅
+# Controllers
 - [Controller - symfony.com](https://symfony.com/doc/5.0/controller.html) ✅
 
 ## Naming conventions
@@ -11,12 +11,9 @@ title: Controllers - Symfony Certification Preparation List
 
 ## The base Controller class
 - [AbstractController.php - github.com](https://github.com/symfony/symfony/blob/5.0/src/Symfony/Bundle/FrameworkBundle/Controller/AbstractController.php) ✅
-- A verifier, controller trait a été supprimé.
 
-## The request
+## The request & response
 - [The Request and Response Object - symfony.com](https://symfony.com/doc/5.0/controller.html#the-request-and-response-object) ✅
-
-## The response
 
 ## The cookies
 - [The HttpFoundation Component - symfony.com](https://symfony.com/doc/5.0/components/http_foundation.html) ✅
@@ -35,7 +32,7 @@ title: Controllers - Symfony Certification Preparation List
 
 ## Generate 404 pages
 - [Managing Errors and 404 Pages - symfony.com](https://symfony.com/doc/5.0/controller.html#managing-errors-and-404-pages) ✅
-- [How to Customize Error Pages - symfony.com](https://symfony.com/doc/5.0/controller/error_pages.html)  ✅
+- [How to Customize Error Pages - symfony.com](https://symfony.com/doc/5.0/controller/error_pages.html) ✅ 
 
 ## File upload
 - [How to Upload Files - symfony.com](https://symfony.com/doc/5.0/controller/upload_file.html) ✅
