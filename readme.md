@@ -64,18 +64,18 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Framework overloading](/topics/standardization.md#framework-overloading) ❌
     - [Semantic versioning](/topics/standardization.md#semantic-versioning) ❌
 
-- [Controllers](/topics/controllers.md) 
-    - [The base Controller class](/topics/controllers.md#the-base-controller-class) 
-    - [The request](/topics/controllers.md#the-request) 
-    - [The response](/topics/controllers.md#the-response) 
-    - [The cookies](/topics/controllers.md#the-cookies) 
-    - [The session](/topics/controllers.md#the-session) 
-    - [The flash messages](/topics/controllers.md#the-flash-messages) 
-    - [HTTP redirects](/topics/controllers.md#http-redirects) 
-    - [Internal redirects](/topics/controllers.md#internal-redirects) 
-    - [Generate 404 pages](/topics/controllers.md#generate-404-pages) 
-    - [File upload](/topics/controllers.md#file-upload) 
-    - [Built-in internal controllers](/topics/controllers.md#built-in-internal-controllers) 
+- [Controllers](/topics/controllers.md) ✅
+    - [The base Controller class](/topics/controllers.md#the-base-controller-class) ✅
+    - [The request](/topics/controllers.md#the-request) ✅
+    - [The response](/topics/controllers.md#the-response) ✅
+    - [The cookies](/topics/controllers.md#the-cookies) ✅
+    - [The session](/topics/controllers.md#the-session) ✅
+    - [The flash messages](/topics/controllers.md#the-flash-messages) ✅
+    - [HTTP redirects](/topics/controllers.md#http-redirects) ✅
+    - [Internal redirects](/topics/controllers.md#internal-redirects) ✅
+    - [Generate 404 pages](/topics/controllers.md#generate-404-pages) ✅
+    - [File upload](/topics/controllers.md#file-upload) ✅
+    - [Built-in internal controllers](/topics/controllers.md#built-in-internal-controllers) ✅
 
 - [Routing](/topics/routing.md) 
     - [Configuration (YAML, XML, PHP & annotations)](/topics/routing.md#configuration-yaml-xml-php--annotations) 
