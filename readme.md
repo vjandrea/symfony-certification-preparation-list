@@ -38,7 +38,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Language detection](/topics/http.md#language-detection)  
     - [Symfony HttpClient component](https://symfony.com/doc/5.0/http_client.html) 
     
-- [Symfony Architecture](/topics/symfony-architecture.md) 🌈
+- [Symfony Architecture](/topics/symfony-architecture.md) ✅
     - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex) ✅
     - [License](/topics/symfony-architecture.md#license) ✅
     - [Components](/topics/symfony-architecture.md#components) ✅
@@ -47,22 +47,22 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Code organization](/topics/symfony-architecture.md#code-organization)  ✅
     - [Request handling](/topics/symfony-architecture.md#request-handling) ✅ 
     - [Exception handling](/topics/symfony-architecture.md#exception-handling) ✅ 
-    - [Event dispatcher and kernel events](/topics/symfony-architecture.md#event-dispatcher-and-kernel-events) 
-    - [Official best practices](/topics/symfony-architecture.md#official-best-practices) 
-    - [Release management](/topics/symfony-architecture.md#release-management) 
-    - [Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise) 
-    - [Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices) 
+    - [Event dispatcher and kernel events](/topics/symfony-architecture.md#event-dispatcher-and-kernel-events) ✅ 
+    - [Official best practices](/topics/symfony-architecture.md#official-best-practices) ✅
+    - [Release management](/topics/symfony-architecture.md#release-management) ✅
+    - [Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise) ✅
+    - [Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices) ✅
 
 - [Standardization](/topics/standardization.md) (not in 5.0 list antmore) ❌
-    - [Release management and roadmap schedule](/topics/standardization.md#release-management-and-roadmap-schedule)
-    - [Framework interoperability and PSRs](/topics/standardization.md#framework-interoperability-and-psrs)
-    - [Naming conventions](/topics/standardization.md#naming-conventions)
-    - [Coding standards](/topics/standardization.md#coding-standards)
-    - [Third-party libraries integration](/topics/standardization.md#third-party-libraries-integration)
-    - [Composer packages handling](/topics/standardization.md#composer-packages-handling)
-    - [Development best practices](/topics/standardization.md#development-best-practices)
-    - [Framework overloading](/topics/standardization.md#framework-overloading)
-    - [Semantic versioning](/topics/standardization.md#semantic-versioning)
+    - [Release management and roadmap schedule](/topics/standardization.md#release-management-and-roadmap-schedule) ❌
+    - [Framework interoperability and PSRs](/topics/standardization.md#framework-interoperability-and-psrs) ❌
+    - [Naming conventions](/topics/standardization.md#naming-conventions) ❌
+    - [Coding standards](/topics/standardization.md#coding-standards) ❌
+    - [Third-party libraries integration](/topics/standardization.md#third-party-libraries-integration) ❌
+    - [Composer packages handling](/topics/standardization.md#composer-packages-handling) ❌
+    - [Development best practices](/topics/standardization.md#development-best-practices) ❌
+    - [Framework overloading](/topics/standardization.md#framework-overloading) ❌
+    - [Semantic versioning](/topics/standardization.md#semantic-versioning) ❌
 
 - [Controllers](/topics/controllers.md) 
     - [The base Controller class](/topics/controllers.md#the-base-controller-class) 
