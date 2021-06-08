@@ -18,23 +18,23 @@ title: Templating with Twig - Symfony Certification Preparation List ✅❌🌈
 - [How to Inject Variables into all Templates (i.e. global Variables - symfony.com](https://symfony.com/doc/5.0/templating/global_variables.html) ✅
 
 ## Filters and functions
-- [Filters - twig.symfony.com](https://twig.symfony.com/doc/3.x/filters/index.html) 
-- [Functions - twig.symfony.com](https://twig.symfony.com/doc/3.x/functions/index.html) 
+- [Filters - twig.symfony.com](https://twig.symfony.com/doc/3.x/filters/index.html) ✅ 
+- [Functions - twig.symfony.com](https://twig.symfony.com/doc/3.x/functions/index.html) ✅ 
 
 ## Template includes
 - [Including other templates - symfony.com](https://symfony.com/doc/5.0/templates.html#including-templates) ✅
 
 ## Loops and conditions
-- [For - twig.symfony.com](https://twig.symfony.com/doc/3.x/tags/for.html) 
+- [For - twig.symfony.com](https://twig.symfony.com/doc/3.x/tags/for.html) ✅ 
 
 ## URLs generation
-- [Linking to Pages - symfony.com](https://symfony.com/doc/5.0/templates.html#linking-to-pages) 
+- [Linking to Pages - symfony.com](https://symfony.com/doc/5.0/templates.html#linking-to-pages) ✅  
 
 ## Controller rendering
 - [How to Embed Controllers in a Template - symfony.com](https://symfony.com/doc/5.0/templates.html#embedding-controllers)  ✅
 
 ## Translations and pluralization
-- [Translations - symfony.com](https://symfony.com/doc/5.1/translation.html) 
+- [Translations - symfony.com](https://symfony.com/doc/5.0/translation.html) 🌈
 
 ## String interpolation
 - [Twig's string interpolation feature - twig.symfony.com](https://twig.symfony.com/doc/3.x/templates.html#string-interpolation) 
