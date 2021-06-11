@@ -8,10 +8,10 @@ Menu vérifié.
 # Automated Tests
 
 ## Unit tests with PHPUnit 
-- [Unit tests - symfony.com](https://symfony.com/doc/5.0/testing.html#unit-tests) ✅ 
+- [Unit tests - symfony.com](https://symfony.com/doc/5.0/testing.html#unit-tests) ✅
 
 ## Functional tests with PHPUnit
-- [Functional tests - symfony.com](https://symfony.com/doc/5.0/testing.html#functional-tests) ✅ 
+- [Functional tests - symfony.com](https://symfony.com/doc/5.0/testing.html#functional-tests) ✅
 
 ## Client object
 - [Working with the Test Client - symfony.com](https://symfony.com/doc/5.0/testing.html#working-with-the-test-client) ✅
@@ -20,7 +20,7 @@ Menu vérifié.
 - [The Crawler - symfony.com](https://symfony.com/doc/5.0/testing.html#the-crawler) ✅
 
 ## Profile object
-- [How to Use the Profiler in a Functional Test - symfony.com](https://symfony.com/doc/5.0/testing/profiling.html) ✅ 
+- [How to Use the Profiler in a Functional Test - symfony.com](https://symfony.com/doc/5.0/testing/profiling.html) ✅
 
 ## Framework objects access
 - [Accessing the Container - symfony.com](https://symfony.com/doc/5.0/testing.html#accessing-the-container) ✅
@@ -32,6 +32,4 @@ Menu vérifié.
 - [Accessing Internal Objects - symfony.com](https://symfony.com/doc/5.0/testing.html#accessing-internal-objects) ✅
 
 ## PHPUnit bridge
-- [The PHPUnit Bridge - symfony.com](https://symfony.com/doc/5.0/components/phpunit_bridge.html) ✅ (à relire)
-
-## Handling legacy deprecated code
+- [The PHPUnit Bridge - symfony.com](https://symfony.com/doc/5.0/components/phpunit_bridge.html) ✅
