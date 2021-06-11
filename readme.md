@@ -185,7 +185,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Error handling](/topics/miscellaneous.md#error-handling) 
     - [Code debugging](/topics/miscellaneous.md#code-debugging) 
     - [Deployment best practices](/topics/miscellaneous.md#deployment-best-practices) 
-    - [Process and Serializer components](/topics/miscellaneous.md#process-and-serializer-components) �
+    - [Process and Serializer components](/topics/miscellaneous.md#process-and-serializer-components) 
     - [Messenger component](/topics/miscellaneous.md#messenger-component)
     - [Mime and Mailer components](/topics/miscellaneous.md#mime-and-mailer-components)
     - [Filesystem and Finder components](/topics/miscellaneous.md#filesystem-and-finder-components)
