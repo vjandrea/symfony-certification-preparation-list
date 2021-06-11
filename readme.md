@@ -158,15 +158,15 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Server side caching](/topics/http-caching.md#server-side-caching) 
     - [Edge Side Includes](/topics/http-caching.md#edge-side-includes) 
 
-- [Console](/topics/console.md) 
-    - [Built-in commands](/topics/console.md#built-in-commands) 
-    - [Custom commands](/topics/console.md#custom-commands) 
-    - [Configuration](/topics/console.md#configuration) 
-    - [Options and arguments](/topics/console.md#options-and-arguments) 
-    - [Input and Output objects](/topics/console.md#input-and-output-objects) 
-    - [Built-in helpers](/topics/console.md#built-in-helpers) 
-    - [Console events](/topics/console.md#console-events) 
-    - [Verbosity levels](/topics/console.md#verbosity-levels) 
+- [Console](/topics/console.md) ✅
+    - [Built-in commands](/topics/console.md#built-in-commands) ✅
+    - [Custom commands](/topics/console.md#custom-commands) ✅
+    - [Configuration](/topics/console.md#configuration) ✅
+    - [Options and arguments](/topics/console.md#options-and-arguments) ✅
+    - [Input and Output objects](/topics/console.md#input-and-output-objects) ✅
+    - [Built-in helpers](/topics/console.md#built-in-helpers) ✅
+    - [Console events](/topics/console.md#console-events) ✅
+    - [Verbosity levels](/topics/console.md#verbosity-levels) ✅
 
 - [Automated Tests](/topics/automated-tests.md) 
     - [Unit tests with PHPUnit](/topics/automated-tests.md#unit-tests-with-phpunit) 
