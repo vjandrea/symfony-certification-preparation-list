@@ -21,25 +21,27 @@ title: Miscellaneous - Symfony Certification Preparation List ✅ ❌ 🌈 ⏩ �
 - [How to Deploy a Symfony Application - symfony.com](https://symfony.com/doc/5.4/deployment.html) ✅
 
 ## Process and Serializer components
-- [The Process Component - symfony.com](https://symfony.com/doc/5.4/components/process.html) ✅ 
-- [The Serializer Component - symfony.com](https://symfony.com/doc/5.4/components/serializer.html) ✅ 
+- [The Process Component - symfony.com](https://symfony.com/doc/5.4/components/process.html) ✅
+- [The Serializer Component - symfony.com](https://symfony.com/doc/5.4/components/serializer.html) ✅
 - [How to Use the Serializer - symfony.com](https://symfony.com/doc/5.4/serializer.html) ✅
 
 ## Messenger component
 - [The Messenger component](https://symfony.com/doc/5.4/components/messenger.html) 🌈
 - [Messenger: Sync & Queued Message Handling](https://symfony.com/doc/5.4/messenger.html)
 
-## Mime and Mailer components
-- A ajouter
+## Mailer and Mime components
+- [Sending Emails with Mailer](https://symfony.com/doc/5.4/mailer.html)
+- [The Mime Component](https://symfony.com/doc/5.4/components/mime.html)
 
 ## Filesystem and Finder components
-- A ajouter
+- [The Filesystem Component](https://symfony.com/doc/5.4/components/filesystem.html)
+- [The Finder Component](https://symfony.com/doc/5.4/components/finder.html)
 
 ## Lock component
-- A ajouter
+- [The Lock Component](https://symfony.com/doc/5.4/components/lock.html)
 
 ## Web Profiler and Web Debug Toolbar
-- [How to Create a custom Data Collector]https://symfony.com/doc/5.4/profiler/data_collector.html (ajouté)
+- [How to Create a custom Data Collector](https://symfony.com/doc/5.4/profiler/data_collector.html)
 
 ## Internationalization and localization
 - [Internationalization - symfony.com](https://symfony.com/doc/5.4/best_practices/i18n.html) ✅
